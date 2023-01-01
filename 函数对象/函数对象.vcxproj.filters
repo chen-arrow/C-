@@ -21,5 +21,8 @@
     <ClCompile Include="一元谓词.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="二元谓词.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
