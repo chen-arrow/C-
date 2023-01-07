@@ -24,5 +24,11 @@
     <ClCompile Include="find.cpp">
       <Filter>资源文件</Filter>
     </ClCompile>
+    <ClCompile Include="find_if.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="adjacent_find.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
