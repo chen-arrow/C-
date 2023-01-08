@@ -16,40 +16,40 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\函数对象\遍历for_each.cpp">
-      <Filter>资源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="tranform.cpp">
-      <Filter>资源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="find.cpp">
-      <Filter>资源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="find_if.cpp">
-      <Filter>资源文件</Filter>
+      <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="adjacent_find.cpp">
-      <Filter>资源文件</Filter>
+      <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="binary_search.cpp">
-      <Filter>资源文件</Filter>
+      <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="count.cpp">
-      <Filter>资源文件</Filter>
+      <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="count_if.cpp">
-      <Filter>资源文件</Filter>
+      <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="sort.cpp">
-      <Filter>资源文件</Filter>
+    <ClCompile Include="find.cpp">
+      <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="random_shuffle.cpp">
-      <Filter>资源文件</Filter>
+    <ClCompile Include="find_if.cpp">
+      <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="merge.cpp">
-      <Filter>资源文件</Filter>
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="random_shuffle.cpp">
+      <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="reserve.cpp">
-      <Filter>资源文件</Filter>
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tranform.cpp">
+      <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
