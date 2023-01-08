@@ -36,5 +36,11 @@
     <ClCompile Include="count.cpp">
       <Filter>资源文件</Filter>
     </ClCompile>
+    <ClCompile Include="count_if.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sort.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
