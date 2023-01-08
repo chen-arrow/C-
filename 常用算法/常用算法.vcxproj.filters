@@ -42,5 +42,8 @@
     <ClCompile Include="sort.cpp">
       <Filter>资源文件</Filter>
     </ClCompile>
+    <ClCompile Include="random_shuffle.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
