@@ -21,5 +21,11 @@
     <ClCompile Include="replace.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="repalce_if.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="swap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
